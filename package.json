@@ -11,7 +11,10 @@
     "url": "git+https://github.com/tallestthomas/hyper-gruv.git"
   },
   "keywords": [
-    "hyper"
+    "hyper",
+    "theme",
+    "gruv",
+    "gruvbox"
   ],
   "author": "Tom Rasmussen",
   "license": "ISC",
