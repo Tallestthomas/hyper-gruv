@@ -1,7 +1,7 @@
 # Hyper Gruv
 A gruvbox port for Hyper.
 
-![Screenshot](http://imgur.com/a/CRaXr)
+![Screenshot](https://i.imgur.com/loZNWSc.png)
 
 #### Intallation
 Open `~/.hyper.js` in your favorite text editor and add `'hyper-gruv` to
