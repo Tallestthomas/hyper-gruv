@@ -1,0 +1,22 @@
+{
+  "name": "hyper-gruv",
+  "version": "0.1.0",
+  "description": "Gruvbox Theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallestthomas/hyper-gruvbox.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "Tom Rasmussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallestthomas/hyper-gruvbox/issues"
+  },
+  "homepage": "https://github.com/tallestthomas/hyper-gruvbox#readme"
+}
