@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tallestthomas/hyper-gruvbox.git"
+    "url": "git+https://github.com/tallestthomas/hyper-gruv.git"
   },
   "keywords": [
     "hyper"
@@ -16,7 +16,7 @@
   "author": "Tom Rasmussen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tallestthomas/hyper-gruvbox/issues"
+    "url": "https://github.com/tallestthomas/hyper-gruv/issues"
   },
-  "homepage": "https://github.com/tallestthomas/hyper-gruvbox#readme"
+  "homepage": "https://github.com/tallestthomas/hyper-gruv#readme"
 }
